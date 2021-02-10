@@ -1,7 +1,5 @@
-
 import random
 from collections import Counter
-
 
 class Dice:
 
@@ -139,7 +137,6 @@ class Frequency:
         instances = generate_percentage(instances)
 
         return instances
-
 
 def main ():
 
