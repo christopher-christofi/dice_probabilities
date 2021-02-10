@@ -1,0 +1,23 @@
+{
+  "name": "dice_probabilities",
+  "version": "0.0.2",
+  "description": "Dice probability program written in Python",
+  "main": "main.py",
+  "scripts": {
+    "start": "python main.py",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopher-christofi/dice_probabilities.git"
+  },
+  "keywords": [
+    "python"
+  ],
+  "author": "Christopher Christofi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christopher-christofi/dice_probabilities/issues"
+  },
+  "homepage": "https://github.com/christopher-christofi/dice_probabilities#readme"
+}
